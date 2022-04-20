@@ -1,6 +1,6 @@
 # AI Enabled B2B Invoice Payment Prediction System 
 
-##Backend
+## Backend
 
 The Backend is based on java, with eclipse as enviornment. The Backend uses Servlet for processing post and GET requests
 To run the project :
@@ -17,7 +17,7 @@ To run the project :
 
 
 
-##Frontend
+## Frontend
 
 The Frontend is based on React.js which is a javascript library for frontend, and excercises the feature of virtual dom, to
 make live time changes.
@@ -34,7 +34,13 @@ To run the project :
 
 
 
-###notes : 
+### notes : 
 -> Make sure that you have updated package of node installed
 -> Make sure your sql is all setup and the tables have been created so that data can be fetched
 -> replace the sql function in java backend with your database name and id and password.
+
+## Instructions to contribute
+
+-> tag me to assing yourself an issue
+-> you can work on issues that are not listed too
+-> to push a change, create a new branch and push the changes, and then PR 
